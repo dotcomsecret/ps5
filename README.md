@@ -1,6 +1,6 @@
 # PS5 Remapper Paddle Set Konfigurieren
 
-Dieses Repository enthält eine einfache HTML-Seite für das **PS5 Remapper Paddle Set Konfigurieren**. Mit diesem Set können Sie Ihr PS5-Remapper- und Paddle-Set für alle PS5-Controller-Modelle (BDM010 bis BDM050) individuell zusammenstellen.
+Dieses Repository enthält eine einfache HTML-Seite für das [PS5 Remapper Paddle Set Konfigurieren](https://www.bitro.de/product/ps5-remapper-paddle-set-konfigurieren/). Mit diesem Set können Sie Ihr PS5-Remapper- und Paddle-Set für alle PS5-Controller-Modelle (BDM010 bis BDM050) individuell zusammenstellen.
 
 ## Beschreibung
 
