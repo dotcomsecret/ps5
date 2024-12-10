@@ -1,30 +1,30 @@
-# PS5 Remapper Paddle Set Configuration
+# PS5 Remapper Paddle Set Konfigurieren
 
-This repository contains a simple HTML page for the **PS5 Remapper Paddle Set Configuration**. This set allows you to customize your PS5 remapper and paddle set for all PS5 controller models (BDM010 to BDM050).
+Dieses Repository enthält eine einfache HTML-Seite für das **PS5 Remapper Paddle Set Konfigurieren**. Mit diesem Set können Sie Ihr PS5-Remapper- und Paddle-Set für alle PS5-Controller-Modelle (BDM010 bis BDM050) individuell zusammenstellen.
 
-## Description
+## Beschreibung
 
-Put together your PS5 remapper and paddle set exactly as you want. Our set contains everything you need to convert your controller.
+Stellen Sie Ihr PS5-Remapper- und Paddle-Set genau so zusammen, wie Sie es möchten. Unser Set enthält alles, was Sie benötigen, um Ihren Controller umzubauen.
 
-### Scope of Delivery
-The set includes all necessary components, as shown in the product image. Depending on your selection, you will receive:
-- Drilling templates
+### Lieferumfang
+Das Set enthält alle notwendigen Komponenten, wie in der Produktabbildung gezeigt. Je nach Auswahl erhalten Sie:
+- Bohrschablonen
 - Remapper
 - Paddles
-- Flex cables, buttons, and screws
+- Flexkabel, Tasten und Schrauben
 
-### Additional Requirements
-For self-installation, you will need:
-- A screwdriver
-- A cordless screwdriver
-- Possibly some glue
+### Zusätzliche Anforderungen
+Für die Selbstmontage benötigen Sie:
+- Einen Schraubendreher
+- Einen Akkuschrauber
+- Eventuell etwas Klebstoff
 
-### Remapper Types
-We offer both classic and programmable remappers that are compatible with all PS5 controller versions (BDM010-BDM050).
+### Remapper-Typen
+Wir bieten sowohl klassische als auch programmierbare Remapper an, die mit allen PS5-Controller-Versionen (BDM010-BDM050) kompatibel sind.
 
-## Getting Started
+## Loslegen
 
 ### Installation
-1. Clone the repository:
+1. Klonen Sie das Repository:
    ```bash
    git clone https://github.com/your-username/ps5-remapper-paddle-set.git
